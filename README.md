@@ -1,2 +1,0 @@
-# practicalTest
-task 
